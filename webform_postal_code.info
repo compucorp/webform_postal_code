@@ -1,0 +1,7 @@
+name = Webform Postal Code
+description = Adds a component and validation for a variety of international postal code types (including American zipcodes).
+core = 7.x
+version = 1.0-beta1
+package = Webform
+dependencies[] = webform
+dependencies[] = postal_code_validation
